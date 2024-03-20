@@ -9,7 +9,6 @@ async fn main() {
 
     //check which process is port used
     // sudo lsof -i:6379
-    
     // loop {
     //     // The second item contains the IP and port of the new connection.
     //     let (socket, _) = listener.accept().await.unwrap();
